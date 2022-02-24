@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning penal laws a discourse, or charge at sessions in the burrough of Bridgewater, 12 July, 1680 / by Sir John Mallet, Kt. ...</title>
+            <author>Mallet, John, Sir, 1622 or 3-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51706</idno>
+            <idno type="STC">Wing M338</idno>
+            <idno type="STC">ESTC R4353</idno>
+            <idno type="EEBO-CITATION">12969074</idno>
+            <idno type="OCLC">ocm 12969074</idno>
+            <idno type="VID">96146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 389:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning penal laws a discourse, or charge at sessions in the burrough of Bridgewater, 12 July, 1680 / by Sir John Mallet, Kt. ...</title>
+                  <author>Mallet, John, Sir, 1622 or 3-1686.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cockeril ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96146:1"/>
+            <pb facs="tcp:96146:1" rendition="simple:additions"/>
+            <p>CONCERNING PENAL LAWS: A DISCOURSE OR CHARGE at SESSIONS In the BURROUGH of BRIDGEWATER, 12 <hi>July,</hi> 1680.</p>
+            <p>By Sir JOHN MALLET K<hi rend="sup">t.</hi> Recorder there.</p>
+            <p>Part thereof being APOLOGIE for GENTLENESS to <hi>Proteſtant Diſſenters.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Cockeril</hi> at the <hi>Three Legs</hi> in the <hi>Poultrey,</hi> over againſt the <hi>Stocks-Market,</hi> 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96146:2"/>
+            <pb n="3" facs="tcp:96146:2"/>
+            <head>ADVERTISEMENT TO THE READER.</head>
+            <p>IF it hath been a ſuppoſal of ſome Wiſe men of late, That ra<g ref="char:EOLhyphen"/>ther than live where all things were lawful, it were better dwell where nothing were lawfull but what's Commanded: Which ſhall be admitted rather than diſputed; becauſe neither caſe of that ſuppoſal is ever likely to happen in any Chriſtian Countrey. It may perhaps by ſome be thought a happineſs to be debarr'd (what was uſed to be the laſt Liberty of the Unfortunate) to VViſh or to Petition; by ſuch reſtraint to reduce Thoughts as well as Obedience, which is due to all the Ten Commandments, to be confin'd only to the Fifth.</p>
+            <p>From the like leave of uſing ſuppoſals, may it be lawfull to ſup<g ref="char:EOLhyphen"/>poſe, that, If ſome of thoſe whoſe holy Function ſhould be to teach men all their Duties both to God and Man, had inſtead of <hi>Moſes</hi> been in the Mount, they would have pray'd God (what ſin ſoever it would be to think ſo little of God, as to hope he would grant their bold requeſt) to give them only that one Command of Obeying Ma<g ref="char:EOLhyphen"/>giſtrates, under the Name of Parents, and to leave all other Laws to their own dictating; how they would have managed ſuch Power by turn<g ref="char:EOLhyphen"/>ing Religion and the VVorſhip of God into ſetting up themſelves, or Adoring and Flattery of Princes under the Name of Gods, from the Mode of ſome, and the many Abſurdities that would be in Civil matters, may be imagined rather than ſaid.</p>
+            <p>But if they pleaſe to conſider, the Names Father and Mother there uſed, ſeem as well a Prophecy as a Law, that Princes ſhould be Nurſing Fathers of the Church, as well of the tender and weak, as of the ſtrong Children of it. As the beſt Princes have alwayes ac<g ref="char:EOLhyphen"/>counted it their greateſt Glory to become, and be call'd Fathers of their Countrey, for their Love, Protection, and well Governing their People by thoſe Lawes which by ancient Uſage, or prudent Legiſlation are found to be agreeable and Good; thereby Government would be as well Firm and Honourable, as alſo Eaſie and Pleaſant both to Prince and People; who would ſtrive to excell each other, the firſt by Princely Condeſcenſions of Love, the other by returns of faithful and loving Duty.</p>
+            <p>
+               <pb n="4" facs="tcp:96146:3"/>Such certainly would be the Condition of theſe Kingdoms under the Government of our King, who by his Own moſt Noble Goodneſs de<g ref="char:EOLhyphen"/>ſerves the Character of being the beſt Prince now living on the Earth; if thoſe whoſe ſacred Profeſſions of Religion, Law, and of giving Councel (all which Qualities when well and juſtly uſed may be ac<g ref="char:EOLhyphen"/>counted Sacred) as it is hoped ſome of thoſe who are to give Counſel, (conſidering Honeſty therein is the true way to be Honourable) would be ſo honeſt in their Advices to his Majeſty, and their Adminiſtra<g ref="char:EOLhyphen"/>tions under him, in whatſoever may concern Religion, Law, Safety, and the good both of King and People, as to preferre the inſeparable common Intereſt of both, before their own or any private advantage.</p>
+            <p>All inferior Miniſtrations would then ſurely go well, or eaſily be ſet right, if thoſe higher Powers beſtow the Influence of their care and good Example on them.</p>
+            <p>Amongſt other things, how low and ſmall ſoever the ordinary courſe of Juſtice may ſeem, there having been ſome miſreports and private Cenſures of ſomething lately ſaid in a Diſcourſe or Charge at Seſſi<g ref="char:EOLhyphen"/>ons for a Town therein mentioned, concerning the Ancient and yet good way of Tryal by Juries; A Friend of our <hi>Engliſh</hi> Laws having a true Copy of what was there ſaid, gives it to you; which the Author of that Diſcourſe would not elſe yield to publiſh.</p>
+            <p>He in that Diſcourſe, and the Friend who writes this Advertiſe<g ref="char:EOLhyphen"/>ment, might ſay much more in Commendation of the Common Laws of <hi>England,</hi> above the Civil or any other Celebrated Laws of Church or State, or any other place; had not the Excellent Preface of the Learned Sir <hi>John Davys</hi> to his <hi>Reports,</hi> and the Caſes there, eſpecially that of <hi>Premunire</hi> in the End of his Book, ſaved the la<g ref="char:EOLhyphen"/>bour of repeating what may be not only neceſſary for all our Law<g ref="char:EOLhyphen"/>yers to know, but delightfull for every Gentleman who may think him<g ref="char:EOLhyphen"/>ſelf concern'd in our <hi>Engliſh</hi> Laws, to read; there they and the Ci<g ref="char:EOLhyphen"/>vilians, and our Clergy alſo if they pleaſe, may find by what our An<g ref="char:EOLhyphen"/>ceſtors anſwer'd when a Courſe of proceeding in Criminal Cauſes ac<g ref="char:EOLhyphen"/>cording to the form of the Civil Law was propounded, and in ano<g ref="char:EOLhyphen"/>ther Caſe when in former Ages an Alteration of the Common Law was endeavour'd, how concernedly they expreſs'd their Love to the Laws of <hi>England.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="5" facs="tcp:96146:3"/>
+            <head>A DISCOURSE OR CHARGE at SESSIONS In the BURROUGH of BRIDGEWATER, 12 <hi>July,</hi> 1680.</head>
+            <opener>
+               <salute>
+                  <hi>Gentlemen, my very good Friends, now Return'd and Sworn of the Grand Jury for this Burrough of</hi> Bridgewater;</salute>
+            </opener>
+            <p>IT is now many years ſince by the deſires and voluntary free choice of your Corporation, I have been your Recorder. And according to my duty, I have been often preſent at your Seſſions.</p>
+            <p>And as it is the Cuſtom of all Courts of Juſtice and Seſſions, for one of the Juſtices in the Counties, and for Recorders in their Towns, by ſome diſcourſe to the Grand Juries, to ſay ſomething of the Occaſion of their Meeting, and ſome general Recommen<g ref="char:EOLhyphen"/>dation of the Laws of <hi>England,</hi> and to give in Charge the moſt material Articles to be Enquired, and to Exhort the Juries to make Preſentments with due care and regard to their Oaths, and the Laws, as the Caſes ſhall require; I have on theſe former Occa<g ref="char:EOLhyphen"/>ſions here ſpoken my minde truely and freely.</p>
+            <p>But as often as it hath been my part to ſay any thing here or elſewhere in publick, I have very ſeldom uſed, or had the leiſure to ſet down in Writing what I ſhould ſay.</p>
+            <p>
+               <pb n="6" facs="tcp:96146:4"/>Yet now two or three dayes before my coming hither, having conſider'd ſome Inconveniencies which of late time have hapned, and may happen to my ſelf as well as others, by miſtakes or miſ<g ref="char:EOLhyphen"/>reports; to prevent which in what I have to ſay, I have learnt from the care of Eccleſiaſtical perſons and our Clergy, in their Diſ<g ref="char:EOLhyphen"/>courſes at their Viſitations, as well as their Sermons, to write what I have to ſay, and with your leave to read and make uſe of my Paper in ſaying to you what I have here written. Though ſince the ſhort time I have had to think of it, other occaſions have hindred me from dreſſing this Diſcourſe with any Exactneſs of Method or Language; but inſtead of being curious, it ſhall be plain and true.</p>
+            <p>
+               <hi>Gentlemen,</hi> This hath alwayes been accounted one of the moſt conſiderable good Towns of this County, in reſpect of its Scitua<g ref="char:EOLhyphen"/>tion, Bigneſs, the good Condition of the Inhabitants of it, and heretofore and at this preſent well eſteem'd for Trade, being one of the beſt Markets in this County, to which there is a good re<g ref="char:EOLhyphen"/>ſort by Land; and it hath alſo a Navigable River, which brings Traffick, not only for the Profit of the Merchants here, and the Countrey hereabouts; but paying alſo conſiderable Cuſtoms and Duties to the Kings Exchequer.</p>
+            <p>And as it hath by the Grace and favour of former Kings had Charters, whereby it hath very anciently been Incorporated, with great Priviledges granted to it, ſo it is for the prayſe and com<g ref="char:EOLhyphen"/>mendation of thoſe who have been and are of it, that they have behaved themſelves ſo well, that thoſe favours have been increaſed and not diminiſhed: The latter Charters having ſtill enlarged your Bounds and Priviledges, and from being limited within that part of your Town, which was the ancient Burrough, they now extend to the large compaſs of your Pariſh, which is of great Cir<g ref="char:EOLhyphen"/>cuit, having ſo many Streets and Hamlets, as except the two Ci<g ref="char:EOLhyphen"/>ties which give name to the Dioceſs, there is, I think, but one Town in this County that hath more dwelling Houſes than this: Whereby may eaſily be underſtood the Concernment, Intereſt, and Eſteem of this good Town.</p>
+            <p>And in reſpect of its Scituation, in a very good County, of which I would not, becauſe our dwellings are in it, be thought to ſpeak partially or flatteringly; but really, I ſpeak my heart and my thoughts of it, and what hath been obſerved and ſaid by others thereof: This County of <hi>Somerſet</hi> is one of the beſt Counties in <hi>England</hi> for Arable as well as Paſture, and abundantly ſtored with the Nobleſt kind of Proviſion this Land hath been famous for: Which the Kings Court, the great City of <hi>London,</hi> and thoſe who provide Victuals for the Navy, well know.</p>
+            <p>
+               <pb n="7" facs="tcp:96146:4"/>And I may further truely ſay for its praiſe and commendation, and affirm it of my own knowledge and obſervation, having lived many years in it, and being pretty well acquainted with the In<g ref="char:EOLhyphen"/>habitants of it; They are in their ſeveral degrees, in reſpect of the goodneſs of their Natures, Underſtanding, and honeſt Diſpoſiti<g ref="char:EOLhyphen"/>ons, as good people as in any County of <hi>England.</hi>
+            </p>
+            <p>In Religion they are good Proteſtants, and ſo few Papiſts amongſt them, that I think I may ſay, no County in this Kingdom hath fewer Papiſts than this.</p>
+            <p>And conſequently it is a moſt Loyal County, for I will bold<g ref="char:EOLhyphen"/>ly and truly affirm, That the Proteſtant Religion is a Religion of Loyalty.</p>
+            <p>My love to my King and Countrey, hath cauſed me to take this occaſion of ſaying this in Vindication of this County from Aſperſions of its Loyalty, and alſo to vindicate the ſincerity of the Proteſtant Religion.</p>
+            <p>As I have ſaid this of the County in General, I now come more particularly to your Town here, and our preſent buſi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Entring into which, I muſt firſt take notice, that when we met here laſt, which was ſhortly after <hi>Eaſter,</hi> we of your Cor<g ref="char:EOLhyphen"/>poration gave unanimous teſtimony of our being good Prote<g ref="char:EOLhyphen"/>ſtants, and Loyal Subjects, by receiving the holy Sacrament in your Church on Sunday, and the next day in this Hall open<g ref="char:EOLhyphen"/>ly at your Seſſions by our Oaths and Subſcriptions.</p>
+            <p>And then all things were ſo well amongſt you all, that your Grand Jury of that Seſſions by their Enquiry on their Oaths, did not know any thing amiſs of any moment to be preſented, that I can remember: Whether there were any ſmaller matter of private Nuiſance or Treſpaſs then preſented, I know not; but if there were, I ſuppoſe it will appear by the Records and Books of that Seſſions; which being ſo lately, and things well then, I hope they ſo continue, eſpecially in reſpect of the greateſt mat<g ref="char:EOLhyphen"/>ters.</p>
+            <p>If any thing be amiſs, it will be your part to make preſent<g ref="char:EOLhyphen"/>ment thereof as you ſhall find Cauſe, and this Court will do right accordingly.</p>
+            <p>And as I am your Recorder, it is my part to give you ſome directions therein.</p>
+            <p>
+               <pb n="8" facs="tcp:96146:5"/>But here I muſt by your favour take leave, Firſt, to ſay ſome<g ref="char:EOLhyphen"/>thing of my ſelf; yet without Vanity, for I do not love Boaſt<g ref="char:EOLhyphen"/>ing, though now it ſeem ſomewhat neceſſary for me to ſay, what I thank God I can moſt truly ſay: That in the long time I have had this Relation to your Town; and the longer time whileſt I had the honour to be one of his Majeſties Juſtices of the Peace of this County; which was from the firſt time his Majeſty Commiſſioned any (for I never would have, nor had, or acted by any other Commiſſion than the Kings) I alwayes made it my care ſo to behave my ſelf therein, that no man hath hitherto charged me, or can have any cauſe that I know of, to charge me with doing any Injuſtice or Oppreſſion, or of taking any Bribe whatſoever, or doing any thing that would be a Scandal or Shame to Juſtice. If I have done any ſuch thing, I deſire any one to bear Witneſs againſt me openly.</p>
+            <p>I am not Ignorant, that ſomething hath been reported as a ſeem<g ref="char:EOLhyphen"/>ing Reflexion: That I have not been ſevere enough againſt thoſe of his Majeſties Proteſtant Subjects who are commonly called Diſ<g ref="char:EOLhyphen"/>ſenters in Church matters.</p>
+            <p>Of which I have this to ſay:</p>
+            <p>That I do not Juſtifie any Diſobedience of any perſons to the Laws, neither by my own Example or Encouragement. For it is well known, that I, and all my Family have ever conſtantly reſorted to the Church, and come thither at the very beginning, and often times before the Common-Prayer and Service begin there, and continue there all the while; and this not out of a formal, but I hope with hearty Reverence.</p>
+            <p>And I can boldly ſay, that in two Pariſhes where I am moſt concern'd, by having long time dwelt in a Pariſh in the Weſt part of this County, and of late years in another Pariſh in the Eaſt part of it; my Example in thoſe places and the Neighbour<g ref="char:EOLhyphen"/>hood, and Gentle diſcourſing to perſwade them to come to Church, hath brought I think all of thoſe Pariſhes to the Church: I am ſure moſt of them come more conſtantly thither, conſidering the proportionable largeneſs of thoſe Pariſhes, than in other places where Severities have been uſed.</p>
+            <p>And I will with your leave make this further Obſervation, which hath been a common Note: That it frequently happens that thoſe who are for the more rigid Compulſion of others, often<g ref="char:EOLhyphen"/>times fail themſelves; they, or ſome of their Families being com<g ref="char:EOLhyphen"/>monly abſent from Church.</p>
+            <p>But I am not aſhamed or afraid to ſay; That I do own my Tenderneſs to others hath been not only of a Kindneſs, which I
+<pb n="9" facs="tcp:96146:5"/>think is natural to moſt <hi>Engliſh</hi> Gentlemen; but of a charitable belief, that moſt part of thoſe who are called Diſſenters, do hold the ſame true Doctrine and Principles of Religion with what is contained in the Articles of the Doctrine of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which do all of them agree with the Holy Scriptures, and the true Doctrine of all ſound and Orthodox Proteſtants.</p>
+            <p>And of the Loyalty and peaceableneſs of ſuch Proteſtans, I think no body hath cauſe to doubt; but rather to pity their Tender<g ref="char:EOLhyphen"/>neſs, and by Gentleneſs ſeek to win them to comply in the ſmall<g ref="char:EOLhyphen"/>er matters of outward Conformity, and a few indifferent Ceremo<g ref="char:EOLhyphen"/>nies, ſeeing they agree with us in the main and ſubſtantial mat<g ref="char:EOLhyphen"/>ters of Doctrine.</p>
+            <p>And there hath been ſome conſiderable doubt, whether thoſe Penal Statutes which at the time of making them, were expreſt and intended to be only againſt Popiſh Recuſants, ſhall extend to Proteſtant Diſſenters.</p>
+            <p>One other thing I have always thought of, which I think is worthy the moſt ſerious conſideration of all <hi>Engliſh</hi> Magiſtrates: That the ever good and ancient way of Tryal, even from the beginning of our <hi>Engliſh</hi> Laws, having been by Juries, where<g ref="char:EOLhyphen"/>of the Great Charter is but Declaration and Confirmation of our common Laws therein, which alſo hath been multitude of times confirm'd by our Statute Laws and Acts of Parliament; Juſtices of the. Peace and others to whom the Miniſtration of our Laws belong, cannot be too careful in any matters left wholly to their Will and Power to hear and determine without Juries; I ſay, I think they cannot be too careful to avoid going beyond the Ri<g ref="char:EOLhyphen"/>gor of the Laws, or hardly to the utmoſt Rigor of them.</p>
+            <p>For my part, I think it hath been no unhappineſs to me, that whileſt I was in Commiſſion of the Peace in the County, there was ſeldom any conſiderable Complaint made to me, wherein I might Judge according to my own Will, without a Jury: And if there were at any time any ſuch cauſe brought before me, I thought it my beſt way, for fear of exceeding the Laws, if it muſt be thought an Error in me, to be as gentle as may be, to erre on the gentleſt ſide.</p>
+            <p>By ſuch means to prevent and reclaim any from Offending, rather than to watch and take all Opportunities to make them feel the extremity of Penal Laws, eſpecially where the proceed<g ref="char:EOLhyphen"/>ings are without Jury.</p>
+            <p>Yet I acknowledge, the Execution of ſuch Laws are very juſt, when the Magiſtrate doth not exceed the Directions and the Methods of thoſe Laws and Statutes in thoſe caſes.</p>
+            <p>
+               <pb n="10" facs="tcp:96146:6"/>Though I have obſerved, that ſome ſuch Laws in King <hi>Henry</hi> the Seventh's time were of ſhort continuance, and ſoon repealed, and two of the Promoters and buſieſt Executioners of them, came ſhortly after to unhappy ends for their ſevere Exactions.</p>
+            <p>Beſides, how free ſoever any Juſtice may be from having any part of the Moneys, yet if he be very active in Levying great Summs of Money by Fines ſet by himſelf, out of Seſſions, unleſs in ſuch other publick manner as may make it appear he hath no ſhare, it will be very hard to avoid being ſuſpected thereof, how free ſoever he may be of it.</p>
+            <p>I will give you ſome Obſervations more of Tryals by Juries.</p>
+            <p>They are to be of the ſame County, indifferently choſen and return'd by Sworn Officers, and are to be Free-holders, or other honeſt men of good Underſtanding and ſufficient Eſtate.</p>
+            <p>It would ſeem as ſtrange a thing to ſee a very mean Jury rerurn'd to try Offenders of very great Quality, as for the greateſt ſort of Perſons to be returned and ſerve in the Tryals of per<g ref="char:EOLhyphen"/>ſons of the loweſt degree.</p>
+            <p>In what Manner and for what Cauſes, the party to be Tryed may except againſt the Jury, or any of them, will not be need<g ref="char:EOLhyphen"/>full here to mention.</p>
+            <p>For my part, I think Juries of the Gentry and Yeomandry, or men of good Eſtates, with ſome equality and indifference mixt to<g ref="char:EOLhyphen"/>gether, to be the beſt way of Tryal in the world, and moſt agree<g ref="char:EOLhyphen"/>able to the ancient Laws of <hi>England.</hi>
+            </p>
+            <p>I do not find that the Clergy-men, though there be about nine or ten Thouſand of them Free-holders in <hi>England</hi> (reckon<g ref="char:EOLhyphen"/>ing about ſo many Pariſhes, whereof they are Parſons and Vicars, beſides other Dignitaries) have for above ſix hundred years been returned or ſerv'd as Jury-men, I am ſure in matters Cri<g ref="char:EOLhyphen"/>minal and caſes of Blood, they were never uſed as Juries in any ſuch matters, except perhaps, which I am not very certain of, concerning the Statute commmonly call'd <hi>the Statute of ſix Articles</hi> made in the Thirty firſt Year of King <hi>Henry</hi> the eighth: Wherein what is there mentioned and call'd Hereſie, was there<g ref="char:EOLhyphen"/>by made tryable by Jury.</p>
+            <p>Of which Statute an honeſt and worthy Clergy-man, Dr. <hi>Bur<g ref="char:EOLhyphen"/>net,</hi> in his Hiſtory of the Reformation, lately written by him, and 23 <hi>May</hi> 1679. allow'd by the truly honourable Secretary <hi>Coventry</hi> to be Printed, ſaith thus:</p>
+            <q>
+               <pb n="11" facs="tcp:96146:6"/>There was but one Comfort that the poor Reformers could pick out of the whole Act, that they were not left to the Mercy of the Clergy in their Eccleſiaſtical Courts, but were to be tryed by a Jury, where they might expect more candid and gentle dealing.</q>
+            <p>Yet it ſeems the Clergy, which were then of the Popiſh Religion, did ſhortly after the making of that Statute leave off Juries, and proceed in their Arbitrary way of Tryal without them.</p>
+            <p>For to remedy their ſo doing, in the thirty fifth Year of the ſame King, another Law was made; That no perſon ſhall be put to his tryal upon any Accuſation of any Offences compriſed in the aforeſaid Statute of Thirty one <hi>Henry</hi> Eight, but only ſuch as ſhall be made by the Oath of twelve men before Commiſſioners autho<g ref="char:EOLhyphen"/>rized, and the preſentment to be made within one year after the Offence Commited; And that no perſon ſhall be Committed to priſon for any ſuch Offence before he be Indicted thereof.</p>
+            <p>I forbear from hence, and from much more that might be ſaid from our Laws, but chiefly from the Holy Scriptures of the New Teſtament, wherein Chriſt did refuſe to be a Judge in Caſe of Blood and other Temporal matters, to make any Inference or reflection upon any of our Clergy, ſeeing many of them are pleaſed with employment of that kind.</p>
+            <p>But for Juries I have ſome few ſhort Notes more to obſerve unto you.</p>
+            <p>That after Juries of Tryal are ſworn, and the Tryal begun, I think they ſhould not at all, but I am ſure they are not ordi<g ref="char:EOLhyphen"/>narily to be adjourned till the Cauſe be fully heard and ended.</p>
+            <p>And then, if they go from the Barr, as they may go together if they will, before they give their verdict (for it may ſeem to prejudice the freedom which belongeth to them, to perſwade them not to go from the Barr) and conſult together in ſome private place, where none may have influence over them.</p>
+            <p>And they muſt have time allow'd them in private, till they be all and every one of them agreed, before they give their Verdict in the Court.</p>
+            <p>For a Jury of twelve men for tryal of a Cauſe, doth differ from a Grand Jury of Enquiry in this, that in all Juries of Tryal all and every one of the Jury muſt be agreed in the ſame point, without going to the Poll for the Major part of Votes; whereas Juries of Enquiry may carry matters before them by the Vote of the greateſt number among themſelves.</p>
+            <p>
+               <pb n="12" facs="tcp:96146:7"/>Now to cloſe this part of this Diſcourſe about Tryals, with ſomewhat concerning Witneſſes.</p>
+            <p>It hath ever been the good old way, warranted by the Holy Scripture, and by the Laws and Uſage of <hi>England,</hi> that the par<g ref="char:EOLhyphen"/>ty accuſed ſhould know the Witneſſes and Informers againſt him, and have them face to face.</p>
+            <p>Except in Caſes of dangerous Conſpiracies, where it may be neceſſary to keep the Witneſſes very ſecret till the matter be throughly examin'd, and the danger prevented.</p>
+            <p>But regularly, when the Party comes or is brought to Tryal, the Witneſſes if living ought to be preſent, unleſs diſabled by ſickneſs, or being beyond the Seas; and in that caſe the cauſe of the Witneſſes abſence ought to be ſufficiently proved by Oath, and there muſt be other very clear plain and full Evi<g ref="char:EOLhyphen"/>dence againſt him, or the Tryal to be put off till ſome other time.</p>
+            <p>The doing otherwiſe, would perhaps be miſtaken to be in imi<g ref="char:EOLhyphen"/>tation of ſome Eccleſiaſtical or Martial Foreign Laws, whereof I forbear to ſay any thing; but that I do not know by any poſitive Law of <hi>England,</hi> the Party when he comes to his Try<g ref="char:EOLhyphen"/>al ſhould be denyed to know the Witneſſes againſt him, and to have them face to face.</p>
+            <p>
+               <hi>Now Gentlemen,</hi> to what concerns your Town and Corpora<g ref="char:EOLhyphen"/>tion, to which I bear a moſt true and unfeigned reſpect, and to you all: What I am about to ſay, is not out of any deſign to Ingratiate my ſelf amongſt you, but becauſe I think what I ſpeak is very true.</p>
+            <p>I think you are as happy as any People or Corporation that I know of, in the good choice of your Maiors and Aldermen, who dwell among you, and are your Magiſtrates in their reſpe<g ref="char:EOLhyphen"/>ctive Years and times of Government, by their behaving them<g ref="char:EOLhyphen"/>ſelves ſo worthily in their Magiſtracy, that they preſerve the good Reputation of your Town, and the reſpect due unto them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>The Articles I ſhall now mention and recommend to the care and Enquiry of you (Gentlemen of this Grand Jury) are ſuch matters as are ordinarily to be enquired at any of his Majeſties Seſſions of the Peace; from the higheſt to the loweſt Offences, though ſome of the matters you are to Enquire of are of ſo high Nature, that they are not to be tryed here, but at the Aſſi<g ref="char:EOLhyphen"/>zes and other Courts.</p>
+            <p>
+               <pb n="13" facs="tcp:96146:7"/>Yet if you know of any ſuch Offences, you muſt acquaint us therewith, and we will take care to tranſmit the Examinations and Offenders, if any be here taken, unto thoſe places and Courts where they may have their Tryals and Puniſhment.</p>
+            <p>But for things within the power of this Court to hear and determine, if you Indict the Perſons, and that they may be brought before us, we will proceed againſt them according to the Law in ſuch caſes.</p>
+            <p>In the firſt place, our Law intends the preſervation of the Life and Perſon of the King.</p>
+            <p>Here I muſt tell you very truly; That our King <hi>Charles</hi> the Second, whoſe Life I pray God long preſerve, is the life and well-being of this Nation, in reſpect of the Proteſtant Religion and our ſafe<g ref="char:EOLhyphen"/>ty. And I ſpeak ſincerely and without any baſe fawning flattery, that I believe, by what I have underſtood by ſome Honourable and knowing men (for I do not frequent the Court, yet am not altogether without having had ſome Opportunities to make my own Obſervations there) that the King of <hi>His own ſelf,</hi> is of an extraordinary good and Gracious Nature, a lover of the Pro<g ref="char:EOLhyphen"/>teſtant Religion, and the welfare and happineſs of his People: And that in <hi>His own</hi> moſt Noble Diſpoſition, and ingenious readi<g ref="char:EOLhyphen"/>neſs of Wit, his Affability and natural Goodneſs, he doth far excell all that are about him: And I believe he doth therein excell all other Princes: And that whatſoever he doth of <hi>His own ſelf</hi> in<g ref="char:EOLhyphen"/>tend or purpoſe, is meant by <hi>Him</hi> to be for the good and happi<g ref="char:EOLhyphen"/>neſs of his Subjects. And he doth infinitely deſerve their Love and Duty mixt inſeparably with the greateſt Humility and moſt faithful Loyalty that good Subjects can expreſs to a moſt Gra<g ref="char:EOLhyphen"/>cious King.</p>
+            <list>
+               <head>What Treaſons are, the Statute 25 <hi>Ed.</hi> 3. doth declare; That</head>
+               <item>To compaſs or Imagine the Death of the King.</item>
+               <item>To Levy War againſt him.</item>
+               <item>To Counterfeit his Great Seal or Privy Seal.</item>
+               <item>And to Counterfeit his Money.</item>
+            </list>
+            <p>To Kill the Lord Chancellor, Judges or Juſtices of <hi>Oyer</hi> and <hi>Terminer,</hi> being in their places doing their Office: Are by that Sta<g ref="char:EOLhyphen"/>tute declared to be Treaſon, and to be puniſht with Death and Forfeitures as therein mentioned.</p>
+            <p>And by a late Statute made in the Thirteenth Year of his Ma<g ref="char:EOLhyphen"/>jeſties Reign that now is,</p>
+            <p>
+               <pb n="14" facs="tcp:96146:8"/>It is Treaſon during this Kings Life, to compaſs, imagine, or intend his Death or Deſtruction, Wounding or Impriſonment, or to deprive or depoſe him of his Kingly Name and Crown.</p>
+            <p>There are alſo Treaſons by other Statutes.</p>
+            <p>27 <hi>Eliz.</hi> If any Born within the Kings Dominions be a Jeſuit, ordained a Prieſt by the pretended Juriſdiction of <hi>Rome,</hi> and come and remain in any of his Majeſties Dominions, it is Treaſon.</p>
+            <p>By 23 <hi>Eliz.</hi> and 3 <hi>Jac.</hi> It is Treaſon for any to bring Abſolu<g ref="char:EOLhyphen"/>tions, or to exerciſe power to abſolve, or to withdraw any of the Kings Subjects from their Allegiance and Obedience, <hi>&amp;c.</hi> to recon<g ref="char:EOLhyphen"/>cile them to the See of <hi>Rome.</hi>
+            </p>
+            <p>The knowing of Treaſon and concealing it, is call'd <hi>Miſpriſion of Treaſon,</hi> and to be puniſht with Fine and Impriſonment.</p>
+            <div type="part">
+               <head>Concerning <hi>Praemunire,</hi> which I think proper in the next place to acquaint you with:</head>
+               <p>You are to know, it is no new, but a very ancient and neceſſa<g ref="char:EOLhyphen"/>ry care and watchfulneſs provided by our Laws, againſt the dan<g ref="char:EOLhyphen"/>gerous and encroaching Juriſdiction of the Popes and See of <hi>Rome,</hi> which have always had deſigns againſt <hi>England;</hi> our Laws and theirs being Incompatible.</p>
+               <p>For, from the time of King <hi>Edward</hi> the third, and the Reigns of the ſucceeding Kings, there have been Laws made, That if any of the Kings Subjects obtain proviſion or promotion to Benefices from the See of <hi>Rome;</hi> or if any Appeal from the Kings Courts of Juſtice to the Court of <hi>Rome,</hi> they ſhall be Impriſoned during life, and forfeit their Lands and Goods, and be out of the Kings Protection.</p>
+               <p>This is commonly call'd a <hi>Praemunire,</hi> from the Words in the Laws, and in the Proceſs concerning it.</p>
+               <p>Of later times other Offences have been alſo very juſtly put under the ſame puniſhment.</p>
+               <p>Moſt of thoſe Offences ſo to be puniſht, being concerning the introducing of the Popes pretended Juriſdiction, and denying Alle<g ref="char:EOLhyphen"/>giance to the King.</p>
+               <p>The particulars of thoſe Offences being many and long, as alſo other Offences that are Treaſon by Statutes, you may beſt read the Statutes themſelves, for the more full knowledge of them, and for bringing the Offenders to puniſhment.</p>
+               <p>
+                  <pb n="15" facs="tcp:96146:8"/>The like Advice I give you, of Looking upon the Statutes when there is any occaſion to make Preſentment againſt any Statute, as well to avoyd Miſtakes, as alſo to ſave me the Labour, and you the Time, of mentioning all Offences againſt our Statutes and Acts of Parliament.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Felonies.</head>
+               <p>There are Felonies by the Common Law, and alſo by Statutes, but I ſhall not be able at this time to name them all to you, and diſtinguiſh them ſeverally: But tell you, that the Puniſhment and Sentence which the Law pronounceth on Felony, is Death. Yet in many Caſes there is an ordinary Mercy allow'd, which is call'd <hi>Benefit of Clergy.</hi> But the greater Felonies are not capable of it.</p>
+               <p>I ſhould, before I named Felonies, have told you of Petty Trea<g ref="char:EOLhyphen"/>ſon, which hath ſomewhat a higher Name put to it than other Murthers:</p>
+               <p>It is when a Servant kills his Maſter, a Wife her Husband, or a Clergy-man his Biſhop.</p>
+               <p>Other Murthers are Felonies:</p>
+               <p>As where any by Malice forethought, expreſs'd or implyed, doth kill any Man, Woman or Child, this is wilfull Murther, and is not capable of ordinary Mercy.</p>
+               <p>So is the killing any one by Poyſon or Stabbing.</p>
+               <p>The killing by ſudden Fray and Aſſault is call'd <hi>Homicide</hi> or <hi>Man<g ref="char:EOLhyphen"/>ſlaughter,</hi> and in ſome caſes it may be capable of Ordinary Mercy.</p>
+               <p>If one in doing a lawfull Act happen to kill another, it is call'd <hi>Chance-Medley,</hi> or <hi>Miſadventure.</hi>
+               </p>
+               <p>And if in his own Defence any man happen to kill another, it is by the Law enquirable by Indictment, though there be Mercy allow'd of courſe.</p>
+               <p>Rape, if a man by force have the Carnal Knowledge of a Wo<g ref="char:EOLhyphen"/>man againſt her will, is a very foul Felony.</p>
+               <p>So are the foul Acts of the higheſt degree of Beaſtlineſs, Bug<g ref="char:EOLhyphen"/>gery and Sodomy.</p>
+               <p>By a late Statute, 23 <hi>Car.</hi> 2. If any perſon maliciouſly cut out the Tongue, put out the Eyes, cut off the Noſe, or diſable or maim any Limb or Member of any of his Majeſties Subjects, it is Felony without Benefit of Clergy.</p>
+               <p>
+                  <pb n="16" facs="tcp:96146:9"/>Theſe before mention'd are Felonies againſt the <hi>Perſon,</hi> I will Name to you ſome Felonies that are againſt your Poſſeſſions and Goods.</p>
+               <p>Breaking any mans dwelling Houſe in the Night-time, with in<g ref="char:EOLhyphen"/>tent to Steal, or do any Felonious act there, is a very great Felo<g ref="char:EOLhyphen"/>ny, for which the benefit of Clergy is not allow'd.</p>
+               <p>So is the Robbing of a Church.</p>
+               <p>And Robbery of any thing from any mans Perſon in the High-way.</p>
+               <p>The Stealing of Cattel or Goods from any mans poſſeſſion, is alſo Felony, but in ſome caſes the benefit of Clergy is allow'd.</p>
+               <p>The Stealing of Goods, though it be the Goods of a perſon un<g ref="char:EOLhyphen"/>known, is Felony by the Law.</p>
+               <p>So is the malicious Burning of any mans dwelling Houſe, or Stacks of Corn or Hay.</p>
+               <p>The Cutting and Stealing Cloth from a Rack, is Felony, where<g ref="char:EOLhyphen"/>of the benefit of Clergy is taken away by a late Statute.</p>
+               <p>I have been the ſhorter in naming theſe Offences to you, be<g ref="char:EOLhyphen"/>cauſe if there be any Offences of Treaſon or Felony, they are com<g ref="char:EOLhyphen"/>monly ſo Notorious that they will not eſcape your preſentment, though we cannot puniſh them here, but tranſmit the Examinations of them, and the Offenders, if any be, to other Courts, to be proceed<g ref="char:EOLhyphen"/>ed againſt and puniſht.</p>
+               <p>There are, certain other Offences againſt Gods Divine Laws, which our Laws take notice of to puniſh with pain and ſhame; though the puniſhment of that which I ſhall next tell you of, by our Laws, is leſs than the greatneſs of ſuch wickedneſs doth deſerve.</p>
+               <p>Theſe are Perjury and Subornation of Perjury; ſins and Offences of ſo deep a dye of guilt, that though our Laws have not appointed Capital puniſhment for them, no doubt but God will ſeverely pu<g ref="char:EOLhyphen"/>niſh them. For he that hath ſaid, <hi>He will not hold him Guiltleſs that taketh his Name in Vain,</hi> will much more dreadfully puniſh that man who breaks both the Tables of his Commandments by a falſe Oath, or by procuring another to Swear falſely. Such Per<g ref="char:EOLhyphen"/>jury oftentimes being the occaſion of Murther, by falſe Accuſations that may take away the Life; or of Oppreſſion and Robbery, by taking away the Liberty, Eſtate or Goods, by cauſing heavy Fines and Puniſhments to be laid on their Neighbours. And by ſuch falſe Oaths and Informations Courts of Juſtice are abuſed, when it is not poſſible for any Judges to diſcern them; And hereby una<g ref="char:EOLhyphen"/>voidably if Perjury paſs for Truth, the Law which ſhould be for the protection is turn'd into the deſtruction of the Subject.</p>
+               <p>I hope within this Town there are none ſuch; if in any other part of this County or elſewhere, anything of this kind be ſuſpected, we have nothing here to do with any thing done beyond the limits of your Town.</p>
+               <p>
+                  <pb n="17" facs="tcp:96146:9"/>But the other Offences of cuſtomary Swearing and Curſing are frequent in every place, if you find any in your Town who offend therein, you may do well to preſent them, that they may be puniſht according to the Law, which though it inflict but a gentle puniſh<g ref="char:EOLhyphen"/>ment, by paying a little Money for ſo great Offence, that, and the Admonition of Friends may reform them, and help the poor to whom the penalty by the Law is to be given.</p>
+               <p>Our Laws do alſo puniſh other Offences againſt the Divine Laws.</p>
+               <p>The Breaking of the Sabbath, by Travelling, or uſing Trades, or Sell<g ref="char:EOLhyphen"/>ing Marketable Wares, and labouring on the Sundays.</p>
+               <p>For though it be not only Lawful but Commendable, and Com<g ref="char:EOLhyphen"/>manded, to follow our Callings ſix days of the Week, yet it is un<g ref="char:EOLhyphen"/>lawfull (except Works of Piety, or extraordinary Neceſſity, or Cha<g ref="char:EOLhyphen"/>rity) to work, labour, or do our lawful buſineſſes on the Seventh day, the Lords day, Sabbath, or Sunday, call it by what Name you pleaſe, ſo as you kep it holy.</p>
+               <p>And if on that day we may not follow our ordinary lawful Callings and Works, it is much more unlawful on that day to do what is unlaw<g ref="char:EOLhyphen"/>ful to be done at any time, by ſpending that day, or a great part of it in Taverns or Ale-houſes, and with the worſt ſort of Company, when we ſhould be at Church and Divine Service; the Omitting to be where we ought to be, and being where we ought not to be, eſpe<g ref="char:EOLhyphen"/>cially at that time, ought to be puniſht by the Laws in that caſe.</p>
+               <p>Thoſe who go to Church ought alſo to behave themſelves reve<g ref="char:EOLhyphen"/>rently there.</p>
+               <p>If any diſturb the Miniſter in time of Divine Service or Sermon, it is a great Offence, puniſhable by the Laws.</p>
+               <p>So is the depraving or ſpeaking againſt the holy Sacrament.</p>
+               <p>It would require too long time for me to enumerate all Offen<g ref="char:EOLhyphen"/>ces which concern Religion and Divine Worſhip: Some of them are of Eccleſiaſtical Congniſance, ſome puniſhable at the Aſſizes, and many of them puniſhable by Juſtices of Peace at home, who all know the Laws and Statutes in thoſe caſes; therefore, eſpecially of what Juſtices of the Peace may puniſh at home without the help of Seſſions or Jury, I forbear to ſay any thing here, more than what I have already ſaid.</p>
+               <p>That which I come next to tell you of, is certainly with<g ref="char:EOLhyphen"/>in the Juriſdiction of this Court to enquire and Puniſh.</p>
+               <p>That is to ſay, The Stealing of Goods not exceeding the value of Twelve Pence; this by the Law is call'd Pettit Larceny, and to be puniſht by whipping; which Puniſhment of young Offenders may do good, in preventing their greater Thefts, and ſave them from the Gallows.</p>
+               <p>There are alſo many other Offences of publick concernment, and ſome of them of moment to be enquir'd and puniſht here.</p>
+               <p>If any number of Perſons have combin'd together to make Quar<g ref="char:EOLhyphen"/>rels and break the Peace.</p>
+               <p>
+                  <pb n="18" facs="tcp:96146:10"/>If any three or more go forward in a Turbulent way to do an unlawful Act, it is call'd a Rout.</p>
+               <p>If they go on by force, and do an unlawful Act and Breach of the Peace, it is call'd a Riot.</p>
+               <p>Upon preſentment or Indictment thereof, if the parties be found guilty, they are to be puniſht by Fine.</p>
+               <p>In any Travel unuſually Armed, to the terror of others.</p>
+               <p>Or are common Night-walkers, eſpecially if they be dangerous perſons.</p>
+               <p>And any that hinder the apprehenſion of Malefactors, or make Reſcous, or break Priſon, ſuch Offenders are alſo to be enquir'd after, and puniſht according to the Law in ſuch caſes.</p>
+               <p>I forbear to make mention of thoſe that ſhew ſtrange and Mon<g ref="char:EOLhyphen"/>ſtrous ſights, becauſe I will make no reflections on ſomething late<g ref="char:EOLhyphen"/>ly in another part of this County, whereof I will ſay nothing here.</p>
+               <p>There are other Offences againſt the Peace, which are hurtful to particular perſons, of which if there be cauſe of complaint, you will hear from the Parties grieved; yet ſuch matters are to be enquired of by you, becauſe the Indictments are on the Kings behalf, the Offences being againſt his Laws and Peace.</p>
+               <p>Such are Aſſaults, Battery, Maims, Falſe Impriſonments, For<g ref="char:EOLhyphen"/>cible Entries, Unlawful Cutting and carrying away young Trees, forcible Treſpaſſes, and hurting the Cattel and Goods of another, Cheatings, Deceits, Menaces, Threats, and Slanders: All theſe are Offences within your Enquiry; and Puniſhable here, and no doubt but many perſons will be apt enough to make complaint; concern<g ref="char:EOLhyphen"/>ing which, if they bring their Bills, and complain to you, Juſtice muſt be done. But many of theſe Angry differences happen among Neighbours, which by Mediation of Friends may be happily ended between them without ſuch trouble.</p>
+               <p>There are matters alſo concerning Artificers, Labourers and Ser<g ref="char:EOLhyphen"/>vants, to be taken notice of, and to be Ordered and redreſſed here.</p>
+               <p>If any ſuch do conſpire together to advance their Wages beyond Law and Reaſon.</p>
+               <p>If Workmen depart before their work be done.</p>
+               <p>If Servants behave themſelves diſorderly.</p>
+               <p>If any that are fit to go to Service, and have no other viſible Eſtate or means of Livelihood.</p>
+               <p>All theſe are to be order'd according to the Law in ſuch Caſes.</p>
+               <p>But if they be truly Poor and impotent, they muſt be provided for and relieved.</p>
+               <p>Here I muſt recommend to the care of the Overſeers of your poor, the binding poor Children Apprentice, as one of the beſt proviſions to pre<g ref="char:EOLhyphen"/>vent the encreaſe of the poor, and alſo thereby to prevent the ill and lewd Courſes and Offences which by Idleneſs ſuch young people would quickly learn and commit.</p>
+               <p>
+                  <pb n="19" facs="tcp:96146:10"/>The Overſeers of the Poor ought alſo to be careful in all other things belonging to their Office, which if they neglect one Month, they are under a Penalty for every ſuch neglect.</p>
+            </div>
+            <div type="part">
+               <head>Concerning <hi>Trades,</hi> which in this Town are conſiderable.</head>
+               <p>By the ſeveral Statutes about Trade, there are a great many Di<g ref="char:EOLhyphen"/>rections, which you are pretty well acquainted with upon former Occaſions, which I ſuppoſe you have had, to take notice of them, that I may be the ſhorter in mentioning any of them now.</p>
+               <p>There being particular Laws about each or very many of theſe and other Trades: Braziers, Pewterers, Tanners, Curriers, Shoo-makers, Coopers, <hi>&amp;c.</hi> That they ſhall make their Wares good and ſaleable; and alſo concerning the Surveying, Marking, Sealing, and Ordering thereof according to the ſeveral Laws in thoſe caſes.</p>
+               <p>If you find any thing needful to be Redreſs'd, we will look into the particular Statutes, and read them: Elſe they are ſo long and many, that it would take up a great deal of time. The Laws only which concern Clothiers, if we ſhould mention all the particulars of them, would require many hours: But you may read thoſe you may have occaſion for; and the Statute-book ſhall be ready for you.</p>
+               <p>This in ſhort may ſuffice to tell you: That, as the Law hates and puniſhes Force done to your Perſons and Goods, it alſo doth hate and puniſh Frauds, Deceit and Cheating in any trade or dealing.</p>
+               <p>And it takes Eſpecial care of thoſe Trades which concern Victu<g ref="char:EOLhyphen"/>als: That all ſorts thereof which may be ſold, ſhall be good and wholſom: Whether Fleſh, Fiſh, Bread, Drink, or any thing elſe; and at reaſonable Prizes.</p>
+               <p>Thoſe which ſhall hinder your Plenty are alſo puniſhable.</p>
+               <p>Whether they be Foreſtallers, who buy in the way before coming to Market, what ſhould be bought there.</p>
+               <p>Regrators, who buy Victuals in the Market to ſell again in the ſame, or in ſome Market neer thereunto, to advance the price.</p>
+               <p>Ingroſſers, who get into their hands or cuſtody by buying there<g ref="char:EOLhyphen"/>of, great quantities of Corn or other dead Victuals, to withhold the ſame from the Market when it is cheap, and to ſell again when the ſame ſhall be dear.</p>
+               <p>The Offenders ſhall forfeit the value of the goods, and alſo have further puniſhment as the Law and Statutes in that caſe have provided. 6 <hi>Ed.</hi> 6.</p>
+               <p>Offences alſo that relate to proceedings in the Law, are puniſh<g ref="char:EOLhyphen"/>able by the Law.</p>
+               <p>Barretters, who are common ſtirrers of Suits, Actions and Quar<g ref="char:EOLhyphen"/>rels in Law.</p>
+               <p>Thoſe who endeavour to corrupt Juries.</p>
+               <p>Magiſtrates taking Bribes.</p>
+               <p>Officers taking undue Fees.</p>
+               <p>
+                  <pb n="20" facs="tcp:96146:11"/>I hope there is no cauſe of any thing of this kind here, for I believe you have a worthy and honeſt Maior, Aldermen and Town-Clark, and that all your Officers are honeſt.</p>
+               <p>If it be otherwiſe, it is your part to enquire and bring them to Puniſhment. And if I have taken any Bribe, make me an Exam<g ref="char:EOLhyphen"/>ple of Puniſhment.</p>
+               <p>The Office of Clark of the Market, I think, belongs to Mr. Maior of your Town, who is ſo worthy and juſt, that I ſuppoſe there is no cauſe, to complain of any thing relating to that Office.</p>
+               <p>I ſhall cloſe what I have ſaid, with recommending and putting you particularly in mind of the Cuſtoms and Duties due unto his Majeſty, which all perſons from whom they are due, ought to pay without Reſiſtance, Fraud or concealment. You all know the ſeve<g ref="char:EOLhyphen"/>ral Branches of the Kings Revenue by the ſeveral Acts of Parlia<g ref="char:EOLhyphen"/>ment concerning them, and there are Penalties for Refuſals and Frauds. You ought to pay the Duties juſtly to the Collectors, and thoſe who are employ'd to gather them.</p>
+               <p>If the Officers make complaints of your Defaults therein, we muſt and will give them Aſſiſtance as the Laws require us to do.</p>
+               <p>And if upon hearing of the Caſe, we ſhall find that the Officers Employ'd in the Collecting, do you any wrong in any thing, by thoſe Laws referr'd to us, we will take care that Right ſhall be done between you and them, ſo far as the Acts of Parliament impower us concerning the ſame.</p>
+               <p>Gentlemen, <hi>I might enlarge this tedious Diſcourſe with a more for<g ref="char:EOLhyphen"/>mal Admonition concerning your Oath; But I know you ſo well un<g ref="char:EOLhyphen"/>derſtand, and are ſo honeſt, that you will keep it; and being dwellers in this Town, you are better acquainted than I am with the Affairs of it; and whatſoever I have omitted to give in Charge for your Enquiry within the Compaſs of your Town, and Juriſdiction of this Court, you will ſupply with your Care, therefore I leave what be<g ref="char:EOLhyphen"/>longs to you to doe therein, to your Conſideration.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96146:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
